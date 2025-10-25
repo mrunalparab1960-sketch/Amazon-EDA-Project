@@ -1,1 +1,1 @@
-# EDA-Amazon-Sales
+# Amazon-EDA Project
